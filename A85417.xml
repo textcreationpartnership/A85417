@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Synkrētismos. Or Dis-satisfaction satisfied. In seventeen sober and serious queries, tending to allay the discontents, and satisfie the scruples, of persons dis-satisfied about the late revolution of government in the Common-Wealth, and to guide every mans feet into the way of his duty, and the publique peace. Proposed by J.G. a cordiall friend, and well-willer to the interest of all men, consistent with the publique peace and safety.</title>
+            <author>Goodwin, John, 1594?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85417</idno>
+            <idno type="STC">Wing G1205</idno>
+            <idno type="STC">Thomason E725_7</idno>
+            <idno type="STC">ESTC R202313</idno>
+            <idno type="EEBO-CITATION">99862648</idno>
+            <idno type="PROQUEST">99862648</idno>
+            <idno type="VID">114814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114814)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E725[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Synkrētismos. Or Dis-satisfaction satisfied. In seventeen sober and serious queries, tending to allay the discontents, and satisfie the scruples, of persons dis-satisfied about the late revolution of government in the Common-Wealth, and to guide every mans feet into the way of his duty, and the publique peace. Proposed by J.G. a cordiall friend, and well-willer to the interest of all men, consistent with the publique peace and safety.</title>
+                  <author>Goodwin, John, 1594?-1665.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Macock, for Henry Cripps, and L. Lloyd, and are to be sold their shop [sic] in Popes head Alley, neer Lombard street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654. [i.e. 1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.G. = John Goodwin.</note>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "December. 22. 1653"; the 4 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Brtain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114814:1" rendition="simple:additions"/>
+            <p>ΣΥΓΚΡΕΤΙΣΜΌΣ. OR Diſ-ſatisfaction Satisfied.</p>
+            <p>In ſeventeen ſober and ſerious QUERIES, Tending to allay the Diſcontents, and ſatisfie the Scruples, of perſons Diſ-ſatisfied about the late Revolution of Government in the Common-Wealth, and to guide every Mans feet into the way of his Duty, and the Publique Peace.</p>
+            <p>Propoſed by <hi>J. G.</hi> a Cordiall Friend, and Well-willer to the Intereſt of all men, conſiſtent with the Publique Peace and Safety.</p>
+            <q>
+               <p>For he ſuppoſed that his Brethren would have understood, how that God, by his hand, would deliver them: but they under<g ref="char:EOLhyphen"/>ſtood it not.</p> 
+               <bibl>
+                  <hi>Act.</hi> 7. 25.</bibl>
+            </q>
+            <q>
+               <p>This <hi>Moſes</hi> whom they refuſed, ſaying, Who made thee a Ruler and a Judg, the ſame did God ſend to be a Ruler and De<g ref="char:EOLhyphen"/>liverer, &amp;c.</p> 
+               <bibl>
+                  <hi>Act.</hi> 7. 35.</bibl>
+            </q>
+            <q>
+               <p>When the Righteous are in Authoritie, the People Rejoyce.</p> 
+               <bibl>
+                  <hi>Prov.</hi> 29. 2.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Macock,</hi> for <hi>H. Cripps,</hi> and <hi>L. Lloyd,</hi> and are to be ſold their ſhop in <hi>Popes head Alley,</hi> neer <hi>Lombard</hi> ſtreet. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="3" facs="tcp:114814:2"/>
+            <head>Diſſatisfaction Satisfied.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>WHether doth not the Apoſtle expreſly affirm <hi>(Rom.</hi> 13. 1.) <hi>That the Powers that be [i.</hi> whatſoever they be, and however, in reſpect of ſecond means compaſſed, attained, or procured by men who ſtand poſſeſſed of them] <hi>are ordained by God [i.</hi> orderly, regu<g ref="char:EOLhyphen"/>larly, wiſely, &amp; righteouſly in reſpect of his providen<g ref="char:EOLhyphen"/>tial interpoſure about the veſtment of them, diſpoſed of, and lodged in the perſons, whoſoever they be, who are the preſent Miniſters, or Adminiſtrators of them?] Or were not the higheſt <hi>Powers</hi> in the world, when the Apoſtle ſpake this, <hi>viz.</hi> That <hi>the Powers that be, are</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>ordained of God,</hi> veſted in <hi>Nero,</hi> not only a Monſter of men (as he is commonly termed) in reſpect of his bloody cruelty, unnaturall luſts, &amp;c. but likewiſe advanced to the Empire, neither by the orderly way of the ſuffrage or election of the people, nor yet by the leſs diſorderly way of the choyce of the <hi>Roman Senate,</hi> but partly by the wickedneſs of his mother <hi>Agrippina,</hi> who cauſed her husband <hi>Claudius</hi>
+                  <pb n="4" facs="tcp:114814:3"/>
+to diſ-inherit his own ſon <hi>Britannicus,</hi> to make way for the Adoption of her ſon, (this <hi>Nero)</hi> partly by the over-ruling interpoſure of the Cohorts and reſt of the Souldiery, <hi>The Senate</hi> (ſaith the Story) <hi>as men af<g ref="char:EOLhyphen"/>frighted with amazement, not once contradicting the ſame?</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>Whether is it any way neceſſary in point of reaſon, or conſcience, that they, who quietly obey, and ſub<g ref="char:EOLhyphen"/>mit unto the preſent power, or the perſons actually inveſted with Authority over them, ſhould either ju<g ref="char:EOLhyphen"/>ſtifie, approve, or own the termes, method, way, means, or manner, either of their attaining unto, or their inveſtiture with, this Authority and power? Or did the Apoſtle <hi>Paul</hi> juſtifie, or approve of, the way or means by which <hi>Nero</hi> obtained the Imperiall Dig<g ref="char:EOLhyphen"/>nity, in ſubmiting and appealing unto him, or nnto his Authoritie, yea or in his injoyning all <hi>Chriſtians</hi> 
+                  <note place="margin">Acts. 25. 10, 11.</note> (as we heard) to be ſubject unto him, and this <hi>not only for wrath, but for conſcience ſake</hi> 
+                  <note n="b" place="margin">Rom. 13. 9.</note>? Or do we ever read in the Scriptures, of any perſon either puniſhed, threatned, or reproved by God, for doing things ſim<g ref="char:EOLhyphen"/>ply, and in themſelves, lawful, at the command, or in obedience unto, any Magiſtrate or Perſon, ſeated, and ſetled in Authoritie, how unduly ſo ever advanced to his ſeate of power?</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Whether is it not the gracious Counſel and intent of God, in declaring, That whatſoever <hi>Powers be,
+<pb n="5" facs="tcp:114814:3"/>
+they are ordained by him</hi> (as we have heard) and again, that ALL <hi>that are in Authority,</hi> ſhould be <hi>prayed</hi> and <hi>Interceded</hi> for, yea and <hi>thanks</hi> alſo <hi>given for them, &amp;c.</hi> Whether (I ſay) is it not the gracious intent of God in theſe, and many other like Declarations made by him, to provide for the peace &amp; quiet of States, Kingdoms, and Common-wealths, by cutting off al occaſions and pretexts from the people, of quarrelſome diſputes about the Rights and Titles of thoſe, who are in pre<g ref="char:EOLhyphen"/>ſent poſſeſſion of the Soveraign or ruling powers? And do not all they reject this gracious counſell of God againſt themſelves, and againſt their Nation, and labour to defeat it, who ſet themſelves with all their might (yea, with more might, it is to be feared, then their own) to raiſe a Spirit of diſloyaltie and diſobe<g ref="char:EOLhyphen"/>dience in the people, unto the preſent Government and Governours, upon pretence, That thoſe who are in power, did by undue and unworthy means poſſeſs and inveſt themſelves with it?</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>Whether is, or ought, the letter of the Law, to be obſerved in all caſes whatſoever? or is not <hi>ratio Le<g ref="char:EOLhyphen"/>gis, anima Legis, i. e.</hi> the <hi>reaſon, or end of the Law, the ſoul of the Law,</hi> which is in all caſes to be preferred before the letter, which is but as the body of it? Yea or hath any Law whatſoever any binding force, further then the execution of it, or ſub<g ref="char:EOLhyphen"/>jection unto it, are conſiſtent with the publique ſafety and good <note n="a" place="margin">Omnis lex ordinatur a<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> commun<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m hominum ſalu<g ref="char:EOLhyphen"/>tem, &amp; in tantum obti<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et vim &amp; rationem L<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gu<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cundum vero quod ab hoc deficit, virtutem obligandi non habet. <g ref="char:V">Ʋ</g>ade Ju<g ref="char:EOLhyphen"/>ris peritus dicit, Quod nul<g ref="char:EOLhyphen"/>la ratio juris, aut <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>quitatis benignit as patitur, ut quae ſalubriter pro ſalute homi<g ref="char:EOLhyphen"/>num introducuntur, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a nos duriori interpretatione con<g ref="char:EOLhyphen"/>trae ipſorum commodum perducamus ad ſeverita<g ref="char:EOLhyphen"/>tem. Contingit autem mul<g ref="char:EOLhyphen"/>toties, quod al quid obſer<g ref="char:EOLhyphen"/>vari communi ſaluti eſt u<g ref="char:EOLhyphen"/>tile, ut in pluribus, quod tamen aliquibus eaſibus eſt maxime nocivum. <hi>Aqu. 12. q. 96. a.</hi> 6. <g ref="char:V">Ʋ</g>nde ſi emergat caſus, in quo obſervatio ta<g ref="char:EOLhyphen"/>lis Legis ſit damnoſa com<g ref="char:EOLhyphen"/>muni ſaluti, non eſt obſer<g ref="char:EOLhyphen"/>vanda. <hi>Ibid.</hi> Neceſſitas diſpenſationem habet an<g ref="char:EOLhyphen"/>nexam; quia neceſſitas non ſubditur legi. <hi>Ibid.</hi>
+                  </note>? Or are not ſuch men <hi>Judges of evil thoughts</hi>
+                  <pb n="6" facs="tcp:114814:4"/>
+(as the Scripture ſpeaketh <note n="b" place="margin">James 2. 4</note>) who con<g ref="char:EOLhyphen"/>demn ſuch perſons, as violators or tranſgreſſors of the Law, who in order to the publique peace and ſafety, act beſides, or contrary to, the letter of the Law, and in ſuch caſes only, wherein the obſervance of this letter viſibly threateneth the ſaid common peace and ſafety? Or whether are private men, who know little of, converſe little with, State tranſactions and affairs, the more competent Judges, when, or in what caſes, the obſervation of the letter of the Law is of a dangerous and threa<g ref="char:EOLhyphen"/>tening import to the publique ſafety, or ſuch perſons, whoſe dayly reſidence is in the mount of State-negotiations, and who by the advantage of the ground, where they ſtand, may very reaſonably be conceived to be in a full capacity per<g ref="char:EOLhyphen"/>fectly to diſcover and underſtand on what hinge the publique Intereſt and Safety turneth, and what means and interpoſures are moſt promiſing of their procure<g ref="char:EOLhyphen"/>ment, promotion, and eſtabliſhment?</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>Whether are ſuch promiſes, engagements, or pro<g ref="char:EOLhyphen"/>teſtations, binding upon the Conſciences of thoſe, who have made them, yea or lawful for them to ob<g ref="char:EOLhyphen"/>ſerve or keep, which, by reaſon of an alteration and change of thoſe circumſtances and terms, under which, and in conſideration of which, they were made,
+<pb n="7" facs="tcp:114814:4"/>
+cannot be obſerved or kept, without the imminent danger, or damage, of thoſe, unto whom, and for whoſe ſake, wealth, and ſafety, they were made <note n="c" place="margin">
+                     <p>Ad hoc quod teneatur bo<g ref="char:EOLhyphen"/>mo facere, quod promiſit, re<g ref="char:EOLhyphen"/>quiritur quod omnia immu<g ref="char:EOLhyphen"/>tata permaneant: alioquin, nec fuit mendax in promit<g ref="char:EOLhyphen"/>tendo, quia promiſit quod habebat in mente, ſubintel<g ref="char:EOLhyphen"/>lectis debitis conditionibus. Nec etiam eſt infidelis non implendo, quod promiſit, quia <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aedem conditiones non ex<g ref="char:EOLhyphen"/>tant. <hi>Senecs. D. Benefic. l. 4. c.</hi> 34.</p>
+                     <p>Ad quintum decendum, quod ille qui aliquid pro<g ref="char:EOLhyphen"/>mittit, ſi habeat animum faciendi quod promittit, non mentitur: quia non loqui<g ref="char:EOLhyphen"/>tur contra id, quod gerit in mente. Si vero non faciat quod promiſit, videtur infi<g ref="char:EOLhyphen"/>deliter agere per hoc, quod animum mutat. Poteſt tae<g ref="char:EOLhyphen"/>men excuſari ex duobus. <g ref="char:V">Ʋ</g>no modo, ſ<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> promiſit id, quod manifeſte est illici<g ref="char:EOLhyphen"/>tum, quia promittendo pec<g ref="char:EOLhyphen"/>cavit, mutando autem pro<g ref="char:EOLhyphen"/>poſitum, bene facit. Alio modo, ſi ſint mutatae condi<g ref="char:EOLhyphen"/>tiones perſonaram &amp; nego<g ref="char:EOLhyphen"/>tiorum—<g ref="char:V">Ʋ</g>nde &amp; Apoſto<g ref="char:EOLhyphen"/>lus non eſt mentitus, qui non ivit Corinthum, quo ſe iturum eſſe promiſerat, ut dicitur, 2 <hi>Cor. 1. Aqu. 22. qu. 110. a.</hi> 3.</p>
+                  </note>? Or in caſe, a man having borrowed a ſword of his Friend, and promiſed to deliver it back again into his own hand within a months time, this Friend of his in the <hi>interim</hi> falling into a <hi>delirium</hi> or phrene tique diſtemper, and ſo continu<g ref="char:EOLhyphen"/>ing till the ſaid month be expired, is this man bound in conſcience to perform his promiſe notwithſta<g ref="char:cmbAbbrStroke">̄</g>ding, by deliver<g ref="char:EOLhyphen"/>ing the ſword into his friends hand at the time appointed? Or is not the ſad providence befaln his friend in this caſe, to be interpreted by him, not only, or ſimply, as a diſcharge from God in re<g ref="char:EOLhyphen"/>ſpect of the performance of his ſaid promiſe, but as an Item, or engagement layd upon him by God, at no hand to perform it? Or hath there not within theſe few years paſt, been an alteration or change in the politique terms and circumſtances of this State and Com<g ref="char:EOLhyphen"/>monwealth, as conſiderably great, as well can be imagined?</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI</head>
+               <p>Whether was that ſuppoſition of <hi>Moſes</hi> without
+<pb n="8" facs="tcp:114814:5"/>
+ſufficient reaſon, or gronnd, when, upon his aveng<g ref="char:EOLhyphen"/>ing one of his Brethren by ſmiting the <hi>Egyptian,</hi> who <hi>oppreſſed him, he</hi> SUPPOSED <hi>that his Brethren would have under ſtood how that God by his hand would deliver them?</hi> Or were not his Brethren dull and ſlow of heart in not taking the kindly impreſſions of ſuch a providence, and nor underſtanding, that pregnant inti<g ref="char:EOLhyphen"/>mation from God, that his Counſel and Will was, to appoint and make his Servant <hi>Moſes</hi> a Prince or Ruler over them, and this in order to the vindication of their liberties, the freedom of their perſons from oppreſſion, and to their further benefit and good otherwiſe? or do not they ſhew themſelves to be altogether unexperi<g ref="char:EOLhyphen"/>enced in the ſpeech and language of high Providen<g ref="char:EOLhyphen"/>ces, or at leaſt to be either but dull and drowſie, or elſe croſs and froward, Interpreters of the moſt ſig<g ref="char:EOLhyphen"/>nal diſpenſations of God, who do not underſtand that his will and pleaſure is, to appoint ſuch a perſon <hi>toties quoties,</hi> by whoſe hand he vouchſafeth unto a People a long continued ſeries of extraordinary de<g ref="char:EOLhyphen"/>liverances, for a Prince and Ruler over them? Or do not that people reject the Counſel of God againſt themſelves, who ſay unto a Perſon ſo commended unto them, and appointed over them by God, <hi>who made Thee a Ruler or a Judg?</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Whether did not God <hi>ſend</hi> THAT <hi>Moſes to be a Ru<g ref="char:EOLhyphen"/>ler and a deliverer</hi> unto his People, who was <hi>refuſed</hi> by them, <hi>ſaying</hi> unto him, <hi>who made thee a Ruler and a</hi> 
+                  <note place="margin">Act. 7. 35.</note> 
+                  <hi>Judg?</hi> Or is it not a matter of frequent occurrency and obſervation in the Providential Adminiſtrations
+<pb n="9" facs="tcp:114814:5"/>
+of God, that ſuch things are brought about and done by him, which, though as contrary to the minds and deſires, as to the expectations of many good people, when they are new done, yet turn to an incomparable benefit and advantage unto them afterwards? Or was not the death of <hi>Chriſt,</hi> as <hi>a Sword paſsing through the ſoul</hi> of his Virgin Mother, yea and of many other holy <note place="margin">Luk. 2 35.</note> and gracious perſons, both men and women, by which notwithſtanding they were highly raiſed in peace and comfort afterwards, and ſhall be eternally ſaved? Or did not eleven of the twelve Tribes of <hi>Iſrael</hi> ſide with the houſe of <hi>Saul</hi> againſt <hi>Davids</hi> ad<g ref="char:EOLhyphen"/>vancement <note place="margin">2 Sam. 2 10.</note> over them, being for a time highly un<g ref="char:EOLhyphen"/>willing and diſcontented that he ſhould be their King, under whoſe Government notwithſtanding they flouriſhed like a green bay Tree, and ſaw many years of the greateſt proſperity and peace?</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>Whether are not children like to receive better quarter, and terms of love, care, proviſion in things neceſſary and convenient, <hi>&amp;c.</hi> from their natural Parents, and ſuch who begat them, then from ſtrang<g ref="char:EOLhyphen"/>ers, or perſons not ſo neerly related to them? Or is any community of men or body of people, like to be ſo naturally regarded and cared for in the things of their comfort and peace, by any other kind of Ruler, or Governour whatſoever, as by thoſe who, under God, have been the Preſervers of their lives, liber<g ref="char:EOLhyphen"/>ties, and eſtates, by expoſing their own perſons to all the difficulties, hardſhips, and hazards of war, and jeoparding their lives themſelves in the high places
+<pb n="10" facs="tcp:114814:6"/>
+of the field, where death for the time had his throne? Or doth not the Preſerving of a people upon ſuch terms as theſe, as kindly, as naturally, as affectio<g ref="char:EOLhyphen"/>nately, endear them to their Preſerver, as the act of procreation commendeth children unto the love and tender affections of their Parents? Or is not the Act of <hi>Preſerving</hi> of very neer a kin to the Act of Beget<g ref="char:EOLhyphen"/>ing? If the premiſes will ſtand, who are more deſire<g ref="char:EOLhyphen"/>able by a people in the places of Rule and Authority, then thoſe, who have been their great Preſervers?</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>Whether are not they rather Back-biters of ſin, then Reprovers, who importunely declaim and cry out againſt the Sins of thoſe that are Abſent? Or is not this a moſt unworthy practiſe of men, to inſinu<g ref="char:EOLhyphen"/>ate themſelves into the hearts and affections of ſim<g ref="char:EOLhyphen"/>ple and inconſiderate people, by cauſing, or tempting them to think the better of themſelves, whileſt others are reproached and declaimed againſt in their hear<g ref="char:EOLhyphen"/>ing, as perſons more ſinful and unworthy, then they? Or have not daring and bold ſpeeches uttered againſt Superiors, and perſons in Authority, tending to ble<g ref="char:EOLhyphen"/>miſh them, or to impair their honor &amp; eſteem, always been of an affectionate and captivating reſentment with the more ignoble and lower-ſpirited ſort of men, cauſing them to have the perſons of thoſe, who utter them, in admiration, as worthy Aſſertors of the Liberties of the People, and expoſing their own li<g ref="char:EOLhyphen"/>berties, yea and lives alſo, to make the purchaſe?</p>
+            </div>
+            <div n="10" type="part">
+               <pb n="11" facs="tcp:114814:6"/>
+               <head>X.</head>
+               <p>Whether is there any inſtance or example to be found in all the Scripture of any Prophet, or faithful Servant of God, who counted it a pleaſure to declaim againſt their Rulers before the people; eſpecially againſt any ſuch Ruler, whom they acknowledged, or knew, to be a perſon fearing God, and withall, a man, the tenderneſs and goodneſs of whoſe Conſci<g ref="char:EOLhyphen"/>ence they could not lightly but know to be ſuch, which made him utterly averſe as to any penall vin<g ref="char:EOLhyphen"/>dication of himſelf, (eſpecially upon the perſons of ſuch men, whom he had the leaſt cauſe of all to judg godly,) though highly injured and provoked by them? Or is it not a moſt unworthy ſtrain of an un-Chriſtian diſ-ingenuitie, to tread and trample upon thoſe with a foot of inſolencie, whom we know (or at leaſt have very good grounds whereon to be con<g ref="char:EOLhyphen"/>fidently perſwaded) that they are faſt bound in their judgements, and conſciences towards God, from ri<g ref="char:EOLhyphen"/>ſing up againſt us, to repair themſelves, or to meaſure out unto us according to the juſt demerit of ſuch our miſdemeanors againſt them?</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>Whether doth not the Apoſtle, expreſly charge and injoyn <hi>every Soul</hi> (without exception of any) <hi>to be ſubject to the higher powers,</hi> declaring, <hi>That whoſo<g ref="char:EOLhyphen"/>ever reſisteth the Power, reſiſteth the Ordinance of God, (Rom.</hi> 13. 2.) If ſo, do not ſuch perſons ſin againſt an expreſs Commandment of God, and this with an
+<pb n="12" facs="tcp:114814:7"/>
+high hand, who, under what pretext ſoever, ſhall o<g ref="char:EOLhyphen"/>penly teach diſobedience unto the <hi>Powers</hi> over them, animating and encouraging, yea by all unchriſtian and indirect means, incenſing and provoking the people againſt the <hi>Powers,</hi> which God, whether in judgment, or in mercy, hath moſt juſtly placed and appointed over them? Or can the ſin of <hi>reſisting the Powers,</hi> be more pregnantly, unqueſtionably, yea or more dangerouſly and miſchievouſly perpetrated and committed, then when thoſe, who ought to live in ſubjection under them, are day after day, openly ſolicited, tempted, urged, yea upon Religious pretences conjured, to deny or refuſe this ſubjection unto them, and are paſſionately, and (as it were) out of an extaſie of zeal, born in hand, that whileſt they break ſo ſignal a Command of God, they do him worthy ſervice?</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>Whether do not all <hi>Chriſtians</hi> ſtand expreſly char<g ref="char:EOLhyphen"/>ged, to <hi>make ſupplications, prayers, interceſsions, and giving of thanks,</hi> as <hi>for all men,</hi> ſo more eſpecially for <hi>Kings, and</hi> ALL <hi>that are in Authority, that they may lead a quiet and peaceable life in all godlineſs and honeſty?</hi> If thus, do not ſuch <hi>Chriſtians</hi> notoriouſly prevaricate with the ſcope and intent of their own <hi>ſupplications and prayers</hi> (at leaſt if they ſupplicate and pray ac<g ref="char:EOLhyphen"/>cording to the preſcription of the Holy Ghoſt, now mentioned) who labour in the very fire without ceaſ<g ref="char:EOLhyphen"/>ing to make profelytes unto <hi>Barabbas,</hi> in ſtead of <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> ſtriving might and main to ſeaſon all they can, with principles of turbulency and ſedition, and to mold their Chriſtian Brethren into ſuch counſels and
+<pb n="13" facs="tcp:114814:7"/>
+reſolutions, which no man can reaſonably imagine or expect, but that they ſhould, or will, exaſperate thoſe <hi>in Authority</hi> into ſuch ways, which muſt needs make their <hi>lives</hi> leſs <hi>quiet and peaceable?</hi>
+               </p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>Whether are ſuch men filled with the Spirit of God, or with a contrary ſpirit, who, in ſtead of <hi>giving thanks</hi> unto God for thoſe <hi>in Authority</hi> (which is the expreſs Command of the Apoſtle, as we heard—that <hi>giving of thanks be made for all men, For Kings, and for</hi> ALL <hi>that are in Authority, &amp;c.)</hi> do little elſe upon all occaſions but fill the ears of men with their diſcon<g ref="char:EOLhyphen"/>tents, complaints and murmurings againſt thoſe in Authority? And whether are not <hi>murmurers</hi> and <hi>complainers</hi> 
+                  <note n="a" place="margin">Jude <hi>v.</hi> 16.</note>, and ſo again, <hi>traytors, heady, high-mind<g ref="char:EOLhyphen"/>ed</hi> 
+                  <note n="b" place="margin">2 Tim 34.</note>, and again, men who <hi>deſpiſe Government</hi> [or Lordſhip, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] <hi>preſumptuous, ſelf-willed,</hi> NOT AFRAID <hi>to ſpeak evil of dignities</hi> 
+                  <note n="c" place="margin">2 Pet. 2. 10.</note>, ranged by the Ho<g ref="char:EOLhyphen"/>ly Ghoſt himſelf amongſt perſons highly diſappro<g ref="char:EOLhyphen"/>ved by God? And whether is not <hi>that wiſdom, which is from above,</hi> as well <hi>peaceable,</hi> as <hi>pure, gentle, and eaſie to be entreated</hi> 
+                  <note n="d" place="margin">Iam. 3. 17.</note>, as that which is found in perſons, <hi>having bitter envying, and ſtrife in their hearts, earthly, ſenſual, devilliſh</hi> 
+                  <note n="e" place="margin">Iam. 3. 14. 15</note>?</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>Whether did not <hi>Satan</hi> (the great Enemy of the peace and ſafety of mankind) deſire to <hi>ſift</hi> the Apo<g ref="char:EOLhyphen"/>ſtles rather then any other ſort of men, <hi>[i. e.</hi> to diſturb and trouble their fancies, memories, underſtand<g ref="char:EOLhyphen"/>ings,
+<pb n="14" facs="tcp:114814:8"/>
+&amp;c. for a time, with an intent and hope by this means to draw out of them ſome ſoyl or droſs, ſome unworthy carriages, or other, which coming from them, he knew muſt needs be more ſerviceable for his ends, then the ſame, or the like, coming from other men.] Or doth he not in theſe days labour in the ve<g ref="char:EOLhyphen"/>ry fire to diſturb the principles, diſtemper the ima<g ref="char:EOLhyphen"/>ginatives, diſorder and confound the reaſons, appre<g ref="char:EOLhyphen"/>henſions, and underſtandings of ſuch men, whoſe diſordered actings and miſcarriages he ſuppoſeth will be of higheſt conducement to his ends, which are known to be, the trouble, miſery, and deſtruction, of the poor creature called Man? Or are not ſuch men, the men of this character, whoſe zeal hath ſo highly commended them to the opinions and thoughts of many devout and well-meaning men and women, that they judg their threſholds to be much nearer the threſhold of God himſelf, then other mens?</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>Whether is there any kind of zeal more ecſtatical and fierie, then that which is blind, and without knowledg? Or was it not ſuch a zeal as this, which made the Apoſtle <hi>Paul</hi> himſelf, whilſt yet a <hi>Phariſee, exceedingly mad againſt</hi> the Saints, in ſo much as to <hi>perſecute them even unto strange Cities</hi> 
+                  <note n="a" place="margin">Act 26. 11.</note>? Or were not the <hi>Jews,</hi> to whom notwithſtanding <hi>Paul</hi> bears this witneſs, that <hi>they had a zeal of God,</hi> the fierceſt ene<g ref="char:EOLhyphen"/>mies of all others, to the moſt worthy and faithful Servants of God? Or was it not a ſpark of this un<g ref="char:EOLhyphen"/>hallowed fire, that provoked the two Diſciples, <hi>James</hi> and <hi>John,</hi> to demand of <hi>Chriſt,</hi> whether they ſhould not <hi>command fire to come down from Hea<g ref="char:EOLhyphen"/>ven
+<pb n="15" facs="tcp:114814:8"/>
+to conſume the Samaritans,</hi> becauſe <hi>they received them not?</hi> Or did not the Lord <hi>Chriſt</hi> upon their mo<g ref="char:EOLhyphen"/>tion <hi>turn</hi> himſelf towards them, and <hi>rebuke</hi> them in theſe words; <hi>Ye know not what manner of Spirit ye are of</hi> 
+                  <note n="b" place="margin">Luk. 9. 53. 54 55.</note>? Or do they underſtand and conſider of what ſpirit, they either are, or ought to be, who (in effect) <hi>call for fire,</hi> not only from Heaven, but from Earth alſo (I mean, from the vulgar, and leſs conſiderate ſort of people) to deſtroy, if not the per<g ref="char:EOLhyphen"/>ſons, yet the power and Authority (which muſt needs endanger the perſons alſo) of ſuch Rulers a<g ref="char:EOLhyphen"/>mongſt them, who do not <hi>receive</hi> their notions and Doctrines about Government, and ſubmit to an in<g ref="char:EOLhyphen"/>veſtiture from them, and ſuch as they pleaſe to joyn in the Act of this inveſtiture with themſelves?</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>Whether is the aſſertive or high-bearing confi<g ref="char:EOLhyphen"/>dence of men, any demonſtrative, yea or compe<g ref="char:EOLhyphen"/>tent, argument or ground of truth, in what they de<g ref="char:EOLhyphen"/>liver and avouch upon ſuch terms? Or did any man, or any ſort of men, ever fly an higher pitch of confidence then the <hi>Jews</hi> when they notoriouſly belyed the Lord <hi>Jeſus Chriſt,</hi> expreſſing themſelves thus: <hi>Say we not</hi> WELL <hi>that thou art a Samaritan, and haſt a Devil?</hi> Or did they not ſpeak very ignorantly, wickedly, and falſly, when they pleaſed themſelves with an high and confident conceit, that they ſpake WELL, and nothing but the truth? Or, are not the grounds of moſt mens confidence, rather ignorance, or want of conſideration, of ſuch things, which are ſtrongly objectionable againſt their notions and apprehenſi<g ref="char:EOLhyphen"/>ons, in conjunction with a vain glorious humor of being thought Demi-prophets, and perſons of a
+<pb n="16" facs="tcp:114814:9"/>
+more familiar converſe with God, then other men, then any well-grounded knowledg or comprehenſi<g ref="char:EOLhyphen"/>on of the certain truth of thoſe things, which they affirm?</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>Whether is the <hi>Epocha,</hi> or time of the firſt entrance beginning, or ſetting up of the fift Monarchy in the World, fixed and determined by God in the Scriptures, ſo that no humane endeavors or contri<g ref="char:EOLhyphen"/>butions towards ſuch a thing, are any ways available to accelerate or haſten this period of time, nor (on the other hand) any humane oppoſition or obſtructions or unworthy actings of men, any ways able to retard or ſet it back? If neither, why ſhould any men trou<g ref="char:EOLhyphen"/>ble the World round about them, and abuſe the ſim<g ref="char:EOLhyphen"/>plicity of inconſiderate people, by an importune bear<g ref="char:EOLhyphen"/>ing them in hand, that if they were but permitted to umpire the ſoveraign Affairs of their State and Nati<g ref="char:EOLhyphen"/>on, they would out of hand bring the ſaid bleſſedneſs of the fift Monarchy upon the head of the world, even before the day thereof? Or why ſhould theſe men, or any others, clamor day after day in the ears of poor people, againſt ſuch perſons, who themſelves ac<g ref="char:EOLhyphen"/>knowledg to be truly Godly, as if they ſtood in <hi>Chriſts</hi> way, and would not ſuffer him to ſet up his Kingdom, or this fift Monarchy, in the world, only becauſe they cannot be ſatisfi'd about the truth or ſoberneſs of their notions, and refuſe to ſteer a courſe, threatening ruine and confuſion to their Nation? Or is it not the ſence and declared opinion of theſe men, that the day and hour, at leaſt the year, wherein that Great <hi>Jubilee</hi> of the Monarchy they ſpeak of, ſhall begin, is unchange<g ref="char:EOLhyphen"/>ably, unalterably, unremoveably fixed by God?</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="17" facs="tcp:114814:9"/>
+            <head>Poſtſcript.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>MAy it not be yet further queried, Whether ſuch perſons, whether Miniſters of the Goſpel, or others (but eſpecially the former) who publiquely undertake or pretend to know, and predict unto the people, how long the preſent Government ſhall ſtand, and after how many months, or years, it ſhall preſent<g ref="char:EOLhyphen"/>ly be diſſolved and fall, do not impoſe a kind of wretched neceſſity upon themſelves to turn every ſtone for the raiſing of Tumults and Inſurrections in the Land, and to enrage the people againſt the pre<g ref="char:EOLhyphen"/>ſent Government and Governors, thus to make a covering for their own ſhame, and to prevent the diſhonor and reproach of falſe Prophets from light<g ref="char:EOLhyphen"/>ing upon their heads? Or did not the Wizard in <hi>France,</hi> having engaged the reputation of his Art in foretelling the death of Duke <hi>Beron</hi> by a <hi>Bungurdian</hi> on a certain day, and finding no likelyhood, the day now approaching, of the event otherwiſe, reſolve to make himſelf a true Prophet by doing the execution himſelf, and accordingly murthered him?</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>Again, Are not theſe paſſages enſuing (publiſhed in print and ſubſcribed by M<hi rend="sup">r</hi> 
+                  <hi>John Simpſon,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Wil<g ref="char:EOLhyphen"/>liam Greenhill,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Thomas Brooks,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Hanſerd Knollys,</hi> M<hi rend="sup">r</hi> 
+                  <hi>T. Harriſon,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Chriſtopher Feak,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Richard Wol<g ref="char:EOLhyphen"/>laſton,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Henry Jeſſe,</hi> with ſeveral others, about two
+<pb n="18" facs="tcp:114814:10"/>
+years ſince, <hi>viz.</hi> in <hi>November,</hi> 1651.) worthy to be engraven with the Point of a Diamond, and written in letters of Gold; <hi>If Ceſar, and Pagan Rulers under him in Judea, and elſewhere, were to be honored and ſubmitted unto, as both Chriſt taught, and his Apoſtles</hi> (Mat. 22. 21. Mark 12. 27.) <hi>(AND YET THEY CAME IN BY THE SWORD, AND KEPT GODS CHURCH IN BONDAGE,) how much more ſhould our Governors be honored by all people in our Nation?</hi> The ſame Authors ſoon after expreſs themſelves thus: <hi>In our days, wherein perſons truly fearing God are of divers forms, diſſenting in Church Government, &amp;c. ſome that are termed Presbyterians, ſome Independents, ſome Ana<g ref="char:EOLhyphen"/>baptiſts, and ſome that are not ſo reſolved with any of theſe; the power of chuſing Rulers, or of being choſen, ſhould not be limited to any one of theſe forms, or perſwaſions, to the excluding of others, [excepting ſuch, WHO EITHER DENY PROPRIETY, or Magiſtra<g ref="char:EOLhyphen"/>cy, or who aſſert carnal liberty, or Polygamy, whom we have witneſſed against in our former declaration; or ſuch, AS HAVE OPPOSED, Or DO NOT OWN, THIS PRESENT GOVERNMENT.]</hi> A little be<g ref="char:EOLhyphen"/>fore (in the ſaid printed paper) having ſolemnly pro<g ref="char:EOLhyphen"/>feſſed thus; <hi>With one conſent we do thus declare, as in the preſence of the Almighty, who is the ſearcher of all hearts, before whom the wicked and deceitful ſhall be confounded at the day of Judgment;</hi> they lay down this <hi>Propoſition;</hi> That <hi>all people in every Nation, as well members of Churches, as others, ought FOR CON<g ref="char:EOLhyphen"/>SCIENCE SAKE to honour ſuch, as by the wiſe diſ<g ref="char:EOLhyphen"/>poſing Providence of God, are their PRESENT RUL<g ref="char:EOLhyphen"/>ERS; and are to ſubmit to the civil commands, not on<g ref="char:EOLhyphen"/>ly of ſuch Rulers as are faithful, but even to Infidels,</hi>
+                  <pb n="19" facs="tcp:114814:10"/>
+(to omit ſeveral other things of like import in the ſaid paper.) Are not the contents and ſubſtance of theſe ſayings clearly and expreſly founded upon the good Word of God, which (as the ſaid Authors worthily, and moſt truly inform us) <hi>is the Rule and Standard for Faith and obedience?</hi> If ſo, muſt not all ſuch men of neceſſity be falſe Prophets, caſting ſnares upon the people, and leading them out of the ways of truth and peace, who are ſo far from <hi>HONOURING THEIR PRESENT GOVERNORS</hi> (though no <hi>Infidels,</hi> but partakers of like precious faith with the Saints themſelves, though no <hi>keepers of Gods Church in bondage,</hi> but moſt zealous and faithful Aſſertors of the entire liberties thereof,) that with open mouth they pour contempt upon them day after day, con<g ref="char:EOLhyphen"/>ſulting with their ſpleens, or worſe ſpirits, how to make their ſavour to ſtink in the eyes of the people, and ſo to arm them with diſcontents and indignation againſt them? Or is this in the dialect, or ſence, of the Holy Ghoſt, to, <hi>HONOUR GOVERNOURS?</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Whether, a mans conſcience bearing him witneſs in the Holy Ghoſt, that his heart is upright with God, and that he unfeignedly purpoſeth and deſires to do all the good upon Earth, whileſt he abideth amongſt men, which God ſhall any ways enable him unto; ought not ſuch a perſon, even in conſcience towards God, and out of love and genuineſs of affection to his generation, embrace and accept of all ſuch opportu<g ref="char:EOLhyphen"/>nities, and advantages of ſtanding, for the promotion of his work, which God ſhall by any providence of his offer unto him? Or when God <hi>called Moſes up to
+<pb n="20" facs="tcp:114814:11"/>
+the top of the Mount (Exod.</hi> 19. 20.) had it been meet for him to have anſwered, Nay; but I will ſerve thee faithfully beneath in the valley? Or is it not a grand detriment, or loſs, unto the world, when <hi>Princes</hi> (as <hi>So<g ref="char:EOLhyphen"/>lomon</hi> ſpeaketh) <hi>walk as ſervants on the Earth; i. e.</hi> when men of noble Principles, of publique Spirits, whoſe hearts and ſouls are in travel with the wealth, peace, and proſperity of the world round about them, who are ſhap'd and form'd (as it were) on purpoſe by God himſelf for Rule and Government, ſhall want a ſtage whereon to act like Princes, or be perſwaded to enjoy themſelves in priva<g ref="char:EOLhyphen"/>cy and retirement? Or in caſe the Sun ſhould be over<g ref="char:EOLhyphen"/>ruled to change place with the Moon, ſhould not the world have cauſe in abundance to lament the change? Or had his tabernacle been pitch'd in any inferior Orb, beneath that, wherein it is now placed by God, could the Earth have rejoyced in his light at that rate, which now it doth? Or had He been in any capacity to inrich the inhabitants thereof with his treaſures, as they are now inriched by him? Or if a candle ſhould creep under a buſhel, when there is a candleſtick provided and ſet on the table for it, ſhould not they in the houſe have much more reaſon to be offended at it, then well pleaſed? Or is it not a ſecret guilt or conſciouſ<g ref="char:EOLhyphen"/>neſs in the generality of men of their own narrow<g ref="char:EOLhyphen"/>cheſtedneſs, and ſelf-ward propenſions, which make them jealous that other men are, and will be found, in the ſame condemnation with them; and that no man coming where he may without much danger ſerve himſelf, will be much intent upon the ſervice of other men further then his own ſecular intereſt ſhall ſuper<g ref="char:EOLhyphen"/>intend and adviſe him?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
